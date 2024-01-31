@@ -6,7 +6,7 @@ pipeline {
     GITSSHADD = 'git@github.com:hwanginkyung/image-test.git'
     GITCREDENTIAL = 'git_cre'
     
-    ECR_REPO_URL = '970210524130.dkr.ecr.us-east-1.amazonaws.com/hik_test'
+    ECR_REPO_URL = '109412806537.dkr.ecr.us-east-1.amazonaws.com/hik-test'
     ECR_CREDENTIAL = 'aws_cre'
 }
 
